@@ -3,13 +3,12 @@
 ## </> Overview 
 **Dragonshell** is a custom UNIX-style command-line shell implemented in **C**. It incorporates core operating system concepts like process control, signal handling, and inter-process communication, offering a functional and interactive shell environment. 
 
-Key features include:
+<!-- Key features include:
 - Built-in commands: `cd`, `pwd`, and `exit`.
 - Support for background execution using `&`.
 - Input/output redirection (`>` and `<`).
 - Inter-process communication with piping (`|`).
-- Reliable command execution using system calls like `fork`, `execve`, and `pipe`.
-
+- Reliable command execution using system calls like `fork`, `execve`, and `pipe`. -->
 
 
 ## 🛠️ Features
